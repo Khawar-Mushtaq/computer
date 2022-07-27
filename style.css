@@ -1,0 +1,22 @@
+.card-img-top{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+.d-block w-100{
+    width: 100px;
+    height: 500px;
+}
+.tag{
+    text-shadow: 4px 4px 4px;
+}
+.card-img-bottom{
+    height: 400px;
+    width: 50px;
+}
+.img-top{
+    
+    height: 200px;
+    width: 200px;
+}
